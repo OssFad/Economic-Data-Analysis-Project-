@@ -1,6 +1,6 @@
 # Economic-Data-Analysis-Project
 
-![Local Image](Orange and Blue Illustration Business Strategy Poster.png) 
+![Local Image](Orange and Blue Illustration Business Strategy.png) 
 
 In this project, we are scraping economic data from FRED using API and performing an *Exploratory Data Analysis (EDA)* for **S&P500**, **Unemployment Rate**, and **Participation Rate**.
 
