@@ -9,7 +9,7 @@
 
 You can view the interactive notebook using the link below:
 
-[View notebook with interactive Plotly visualizations](https://nbviewer.org/github/OssFad/Economic-Data-Analysis-Project-/blob/main/FRED%20Economic%20Data%20Analysis%20Project.ipynb)
+[View notebook with interactive Plotly visualizations](https://nbviewer.org/github/OssFad/Economic-Data-Analysis-Project-/blob/main/p.ipynb)
 
 
 
