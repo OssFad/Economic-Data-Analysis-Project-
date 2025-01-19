@@ -1,7 +1,11 @@
 # Economic-Data-Analysis-Project
 ## Introduction:
 
-![Alt Text](https://github.com/OssFad/Economic-Data-Analysis-Project-/blob/main/Orange%20and%20Blue%20Illustration%20Business%20Strategy%20Poster.png)
+
+<p align="center">
+  <img src="https://github.com/OssFad/Economic-Data-Analysis-Project-/blob/main/Orange%20and%20Blue%20Illustration%20Business%20Strategy%20Poster.png" alt="Logo" width="400">
+</p>
+
 
 ## Plotly Project
 
