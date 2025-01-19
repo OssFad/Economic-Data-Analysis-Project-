@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/OssFad/Economic-Data-Analysis-Project-/blob/main/Orange%20and%20Blue%20Illustration%20Business%20Strategy%20Poster.png" alt="Logo" width="400">
+  <img src="https://github.com/OssFad/Economic-Data-Analysis-Project-/blob/main/Orange%20and%20Blue%20Illustration%20Business%20Strategy%20Poster.png" alt="Logo" width="600">
 </p>
 
 
